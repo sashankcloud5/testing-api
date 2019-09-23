@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "utf-8" />
+	<meta name = "robots" />
+</head>
+<body>
+	<script>
+		(function() {
+			document.addEventListener("DOMContentLoaded", function(event) {
+				// set cookie for testing
+				setCookie("SSLB", 0);
+				// gets the redirect_url from address bar
+				var url = window.location.href;
+				var sp = url.split("?http");
+				var redirect_url = sp[1];
+				redirect_url = "http" + redirect_url;
+				// check cookie if cookie value is 1 or 0
+				var value = getCookie("SSLB");
+				if (value == "0") {
+					// if value == 0, set it 1
+					setCookie("SSLB", 1);
+					if (redirect_url) {
+						window.location.href = redirect_url;
+					}
+				}
+			});
+			function getCookie(cname) {
+			  var name = cname + "=";
+			  var ca = document.cookie.split(';');
+			  for(var i = 0; i < ca.length; i++) {
+			    var c = ca[i];
+			    while (c.charAt(0) == ' ') {
+			      c = c.substring(1);
+			    }
+			    if (c.indexOf(name) == 0) {
+			      return c.substring(name.length, c.length);
+			    }
+			  }
+			  return "";
+			}
+			function setCookie(cname, cvalue, exdays) {
+			  var d = new Date();
+			  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			  var expires = "expires="+d.toUTCString();
+			  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+		}());
+	</script>
+</body>
+</html>
