@@ -1,0 +1,187 @@
+
+
+Cloud AWS DevOps Engineer● DevOps/AWS Engineer● Linux Administrator
+Summary:
+Associated with IT industry for 5+ years working as Certified AWS Developer, Cloud/DevOps Engineer,  Linux Administrator within Linux/Unix/Windows environments to provide solutions to the complex issues utilizing most of the resources such as Virtualization, Automation, Integration, deployments and configuration Management tools, involving different Infrastructures (On-Premises Bare-Metal, privatized or Public Cloud) for Resource Provisioning, scalable infrastructure, high-available, load balanced with Configuring, Monitoring, Alerting, Disaster Recovery. Adopting DevOps Culture to automate the entire Software Development Life cycle and Implemented Continuous Integration, Delivery/Deployment pipelines with enterprise standard technologies. 
+
+•	Experience on complete software development life cycle (SDLC)management with software development models like Agile methodologies, Scrum Model.
+•	Hand-on implementation knowledge with designing, developing, installation, configuration management, on-boarding , patching with business continuity and troubleshooting of Red hat Linux, Suse Linux, CentOS, Ubuntu, Fedora, and Windows Servers. 
+•	Driving the scenarios by taking ownership in Interacting with stakeholders, business, Department Architect, security teams, technical advisors for obtaining the desired outcomes
+•	Designing ,developing and deploying the reliable infrastructure with high availability, fault tolerant, scalable, load balanced, cost effective as per industry standard best practices using the resources like  EC2, cloud formation, autoscaling, launch configuration/template, ALB, ELB, VPC, Subnets, IAM, SNS topics, SQS, Route53, CloudFront, CloudWatch, CloudTrail, Elastic Search, Direct connect, Systems manager, AMI’s,  Lambda, S3 buckets, API Gateway, Kinesis, firehouse, Dynamo DB,  RDS etc. 
+•	Experience in designing, developing, architecting complex custom solutions using CloudFormation templates for managing the resources in AWS with versioning and implementing automation by continuous integration and continuous deployments 
+•	Proficient in migrating existing AWS infrastructure to serverless architecture where feasible with AWS Lambda, kinesis streams, firehose, s3, DynamoDB  and deployed via Terraform/AWS Cloud Formation by running it through the pipelines for archival/retrieval. 
+•	Experienced in branching, Merging, tagging, issue tracking, Code reviewing and maintaining the version across the environments using SCM tools like GIT, GitHub, Bitbucket, Subversion (SVN) and TFS on Linux and windows platforms.
+•	Proficient in Orchestration and migration of Continuous Integration/Continuous Delivery processes using Cloud Formation and Terraform Templates and Containerized the infrastructure using Docker, which was setup in Vagrant, AWS and VPCs
+•	Expertise in creating and maintain bamboo/Jenkins pipelines by using custom built plugins, for provisioning the resources with version control in the custom micro accounts with the region based as well. 
+•	Implementing experience in the container orchestration to drive all microservices builds out to the Docker registry and then deployed to Kubernetes by Creating Pods and managing using Kubernetes
+•	Experience working on several Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry and Configuring Docker containers for Branching purpose and deployed using Elastic Beanstalk
+•	Experience with Docker, Docker swarm, Kubernetes and clustering frameworks with Mesos providing the fine-grained resource allocations for pods across nodes in a cluster and  making Kubernetes play nicely with other frameworks running on the same cluster resources
+•	Proficient in developing Automation scripts in multiple languages as needed like python, shell, ansible scripts in performing automation to be as self-service jobs without manual intervention through CRON jobs and controlm jobs
+•	Experience in building a load balanced stack using the application load balancer with the targeted group that’s made available in multiple availability zones with attaching the required security groups with akamai  as front facing and as well doing all the health checks to the autoscaling instances. 
+•	Experience in load balancing using F5, ELB, Akamai etc. and monitoring System/Application Logs of server using Datadog, AppDynamics, SiteScope, Splunk, Nginx, Nagios, Kibana, Elastic Search, Log stash (ELK), to detect Production issues. Integrated PagerDuty, service now with monitoring and as alert management. 
+•	Knowledge of NGINX in using as a reverse proxy and load balancer to manage incoming traffic and distribute it to slower upstream servers – anything from legacy database servers to microservices
+•	Automated the provisioning of Tomcat application, Apache web instances through ansible that are triggered using the user data/metadata configuration setup through the CloudFormation scripts in the bamboo pipeline 
+•	Managing On-Site OS, Applications, Services, Packages using chef as well AWS for EC2, S3, Route53 & ELB with chef cookbooks Also using AWS Lambda as microservices and API Gateways to achieve Scalability 
+•	Hands-on experience with Ansible scripts and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploy critical applications, Environment configuration Files, Users, Mount points, Packages across the classified inventory as needed. 
+•	Proficient in Chef Enterprise Hosted On-Premise, Installed Workstation, Bootstrapped Nodes, Wrote Recipes and Cookbooks and uploaded them to Chef-server
+•	Used Ansible scripts to automate the Cassandra Tasks such as new installations/configurations and Basic Server Level Checks
+•	Administered tasks like taking backups, expanding file system disk space, creating NFS mounts, TCP/IP, UDP, OSI Model, N tier Architecture, DNS, DHCP, NAS, NFS, SSH, HTTP and HTTPS
+
+
+
+Technical Skills:
+	
+Operating Systems			:	UNIX, red hat Linux (RHEL), Ubuntu, Windows 98/NT/XP/Vista/7/8, 	
+SCM Tool				:	Subversion, GIT, GitHub, Bitbucket, TFS	
+Build Tool				:	Ant, Maven 
+CI/CD Tools			 	:	Jenkins, Hudson, bamboo, octopus, U Deploy, CircleCI 
+Containerization			:	Docker, Kubernetes, OpenShift Mesos.
+Configuration Management		:	Chef, Ansible.
+Automation Tools			:	Ansible tower, Terraform
+Scripting				:	Python, shell , JavaScript, Perl, bash, groovy 
+Bug tracker & Testing			:	JIRA, Bugzilla, SonarQube, Junit, Test Flight and Test Rail 
+Repositories				:	Nexus, Artifactory, JFrog
+Web Service Tools			:	JBOSS, Apache Tomcat, IntelliJ IDEA, Oracle Web logic,
+                                                                                       	IBM WebSphere
+Languages/Utilities			:	Shell Script, ANT Script, Batch Script, Ruby, Perl, Node.js, C, C++, 							Objective C, Python, Java, J2EE 
+Networking				:	TCP/IP, NIS, NFS, DNS, DHCP, Cisco Routers/Switches, 									WAN, SMTP, LAN, FTP/TFTP.
+Databases				:	MS.SQL, MySQL,Oracle, DB2, mongo DB, PostgreSQL, DynamoDB
+Monitoring and alerting tools		:	AppDynamics, Splunk, SiteScope, Dynatrace, Kibana, Logstash, ELK.
+Cloud Technology			:	Open stack, AWS – AMI, Ec2, VPC, Subnets, Autoscaling, EBS, KMS, Systems manager, security groups, launch configurations, launch template, ALB, ELB, SNS,SQS, cloud watch, cloud trail, code commit, code deploy, code pipeline lambda, kinesis streams, firehose, DynamoDB, RDS, API Gateway, ECS, ECR.
+
+
+
+
+
+
+
+
+Client: Premium Mutual fund investment company, Philadelphia, PA.   	May 2019 - current
+Role: AWS/DevOps Developer
+Responsibilities:
+
+PROJECT1: 
+•	Taking ownership and driving the scenarios by  interacting with stakeholders, gathering the business requirements, Architecting the cloud migration design
+•	Partnered with enterprise architects , technical advisors, stakeholders, security architects for designing , architecting  and implementing the production ready, Auto scalable, load balanced, highly available, fault tolerant AWS infrastructure. 
+•	Designed and documented the Architecture diagram, high level design diagrams, production readiness documentation , on-boarding documentation etc. 
+•	Used tools like JIRA for Bug tracking/created tickets, generated reports on different bugs and Tickets and as well used for CI/CD branch tracking for passed, failed builds, commits etc.
+•	Implemented the design architecture for the implementation, branching strategies for the bitbucket code repository, integrating the JIRA for tracking the branches of the repository and committing the code from GIT with JIRA ticket number. 
+•	Implemented Continuous Integration and Continuous Deployments using JIRA, bitbucket for version tracking , bamboo for pipeline, JFROG for artifact storing and deploying to the relevant microenvironments aws account for creating/deleting/updating the infrastructure stack. 
+•	Used AMI provided by vendor and custom baked the ami with custom patches using the packer for packaging  by using the ci/cd pipeline to deploy in the specific region that to be used across the organization through the autoscaling.
+•	Encrypted the EBS volumes in-rest and in-transit using the specific KMS keys widely used across the organization for the relevant department for ebs volumes
+•	Provisioned the aws infrastructure stack with aws resources EC2, cloud formation, autoscaling, launch configuration/template, ALB, VPC, Subnets, IAM, SNS topics, SQS, Route53, CloudFront, CloudWatch, akamai. 
+•	Provisioned application load balancer through cloud formation templates with multiple availability zones and target groups assigned to autoscaling groups. 
+•	Performed health checks from the application load balancer to the apache webserver provisioned as part of the autoscaling group launched in multiple availability zone. 
+•	Implemented the pipeline with parameters relevant to the line of business and the different environments Dev, test and prod aws accounts. 
+•	Associated  LDAP protocol as part of the CloudFormation templates for authentication process and login to the instances using the centralized network authorization. 
+•	Created change records by collaborating with teams across the organizations like firewall, security for performing patches , upgrades , modifying tags associated with the provisioned resources.
+•	Implemented Perl/SHELL/Bash/Python/ansible scripts using the userdata/metadata section of the AWS for performing the post-provisioning patches as part of the CloudFormation templates. 
+•	Developed wrapper script for adding the autoscaled web server instances with custom AMI  to be added to the application server and serve the traffic flow as desired. 
+•	Implemented monitoring using the Splunk and performed a POC for using the adobe target with tagging mechanism to capture the metrics.
+•	enabled the CloudWatch metrics and associated with the autoscaling policies and  SITESCOPE/PAGERDUTY for the alert management in the event of the incident management. 
+•	Implemented the A/B experimentation across the client experiences based on the campaign assigned and allowing the traffic flow across the application and integrating with data analytics for capturing the metrics. 
+
+PROJECT2:
+•	Implemented the Platform as a service tool related to  feedback survey management and tracking the metrics  and performing data analytics to improvise the business functionality through the survey feedbacks. 
+•	As part of on boarding the tool to the organization worked with several teams for undergoing the security architecture review, advanced vulnerability testing, design implementation etc. by coordinating with the technical lead, security architect, project manager , vendor etc. 
+•	Organized the kick-off meetings, workshops, working sessions for to use different types of surveys  as per the use case like always on survey, mouse over survey, invitation survey, button, embedded survey etc. that are classified as active and passive surveys. 
+•	As well implemented the automation for the behavior triggers, custom parameters for capturing cookies etc.  through the switch property with the segregation depending on the departments across of the organization. 
+•	Documented the process diagrams, flow charts, on-boarding steps, known issues, feature requests to stay updated with the clients across the organization.
+•	Implemented the CI/CD process with adHoc releases for the angular webapp including the external libs related to the surveys, source code configurations to be packaged using the maven by including the dependencies versioning in the bitbucket, code testing through the SonarQube, JFROG repository for storing the artifacts and deploying in to the relevant environment CDN through the bamboo pipeline with Jira build tracking
+•	Integrated ServiceNow for change management process as part of CI/CD for production elevations and continuing with the deployments only post approval from the business managers.
+•	Streamlined the feedback survey flow to the production environment through the continuous integration and continuous deployments and that will be rendered internally and externally using the script tag functionality.
+•	Integrated survey management tool with the data analytics platform for performing the data analytics, text analytics, impact, sentiment analysis for tracking the metrics for the surveys by integrating with the survey management tool for analyzing the feedback provided by the end customers of the business organization. 
+•	Using the data analytics platform and working through many custom filters for classifying the feedback data using data analytics, text analytics, mathematical operations like NPS, average, count by viewing as themes for exploring across  
+•	Implemented event driven mechanism streamlined for the feedback data from vendor to the organization by using cloud technology AWS resources like S3 buckets , lambda, DynamoDB, EMR(HIVE), Kinesis streams, CloudWatch, CloudTrail, firehose etc. and deployed to the hive database for performing the analytics operations for developing the existing business operations.  
+•	24/7 Supporting the clients for production elevations and production issues by identifying the root cause that might be associated with the tool itself or the functionalities.
+
+Environment:   AWS, EC2,s3, cloud formation, autoscaling, launch configuration, ALB, VPC, Subnets, IAM, SNS topics, SQS, Route53, CloudFront, CloudWatch, CloudTrail, MySQL, KMS, ansible, python, shell, Docker, lambda, Kinesis streams, firehose, hive,  Bitbucket, bamboo, Jfrog.
+
+Client: Amway, Ada, Mi.	Aug 2018 – May 2019
+Role: AWS/DevOps Engineer
+Responsibilities:
+
+•	Partnered with Business, Architecture, and Application teams to perform POCs and complete technical design for Infrastructure (CAAS/FAAS) solution for the organization
+•	Partnered with teams operating across multiple countries for building the omni channel messaging platform  and be operational without any disruptions with cost optimization 
+•	As Content As A Service team was responsible in leading ,building, designing, configuring the event-driven infrastructure based on serverless architecture based as Function as a service in AWS using the resources  like lambda, kinesis streams, firehose, DynamoDB, guard duty, s3, API Gateway, Direct connect ,SNS, CloudWatch, CloudFront, Route53, IAM,   
+•	As FAAS with event-driven operating model for making the calls in RESTApi pattern for reading, creating, deleting the data from the Siebel communications. 
+•	Using the lambda streamlining process for retrieving the data and archiving the data using for the communication channels. 
+•	Implemented the Omni-channel communication platform as a messaging platform by integrating across multiple channels like WhatsApp, line, emails, KIK etc. 
+•	Implementing a new tool from scratch for storing the content across the organization and dynamically pulling as needed through the omnichannel communication 
+•	Dynamically drag and drop as part of the api calls by tracking the metrics assigned for number of hits etc. 
+•	Used tools like JIRA for Bug tracking/created tickets, generated reports on different bugs and
+Tickets
+•	Using the GitHub across the enterprise using the organization feature through private repo and making use for the cost optimization. 
+•	Implemented a new CI/CD pipeline with application containerized deployment using container orchestration tools like ECS, ECR, Code commit, code build, code pipeline with the AWS environment. 
+•	Supporting the development team to provision the server and integrate with the system and CI/CD setup
+•	experience on using Terraform along with packer to create custom machine images and automation tools like Chef/Ansible to install software's after the infrastructure is provisioned
+•	Automated the infrastructure using Terraform and making it auditable by storing all the infrastructure changes in a version control system like GIT
+•	Collaborate in the automation of AWS infrastructure via terraform and Jenkins - software and services configuration via Ansible
+•	Implanted a continuous Delivery pipeline with Docker, Jenkins and GitHub. Whenever a new GitHub branch gets started, Jenkins our continuous Integration server, automatically attempts to build a new Docker container from preconfigured. 
+•	Worked with Docker container snapshots, attaching to a running container, managing containers, directory structures and removing Docker images
+•	Worked with various Docker components like Docker Engine, Hub, Machine, Compose and Docker Registry
+•	Developed scripts for deployment of customer environments into AWS using Bash, Python and created scripts which integrated with Amazon API to control instance operations for RESTApi calls 
+
+Environment: Terraform, Docker, Kubernetes, Git, GitHub, Jenkins, Jira, AWS lambda, kinesis streams, firehose, DynamoDB, guard duty, s3, API Gateway, Direct connect ,SNS, CloudWatch, CloudFront, Route53, IAM, KMS, code commit, code deploy, code pipeline, ECR, ECS.
+
+
+Client: fifth-third bank, Cincinnati, OH	  Aug 2016 – Aug 2018
+Role: Cloud AWS Engineer	
+Responsibilities:
+
+•	In Infrastructure as code (IAC) team, was responsible for architecting, installing, building, configuring, integrating different tools with post-provisioning tools like terraform enterprise, Ansible Tower for LDAP, Ping Identity, CMDB, Inventory management, Avamar backup client, ServiceNow for change management.
+•	Managed various IAAS/PAAS design groups & working toward designing, architecting and implementing the product as per the business/security guidelines. 
+•	Implemented the Enterprise tools like ansible tower, terraform enterprise by coordinating with vendors from scratch and managed all the integrations with multiple enterprise tools by aligning to enterprise standards like security etc. for provisioning and post provisioning activities as part of automation. 
+•	VersionOne is used to track the user stories, backlogs, impediment, risks, and replicating the repeated stories as template in VersionOne
+•	Defined and implemented the GitHub branching strategies, Gitignore, code reviewers, code approvers with respect to the environment by using the scripts like ansible scripts, python scripts 
+•	GitHub is used as a repository to store the ansible playbooks, scripts used in the automation, documents related to the ansible tower, playbook etc.
+•	Implemented fully automated server build, management, monitoring and deployment solutions spanning multiple platforms, tools and technologies using the ansible scripts.
+•	Implemented Splunk-Logging, SiteScope-Monitoring & alerting, Ping Identity for Authentication and LDAP for Authorization, Secret Storage Solutions using tools Vault, Ansible vault etc. to Ansible Tower platform.
+•	Created AWS cloud formation templates to create organization AWS network from scratch with custom sized VPC, subnets, NAT gateways, internet gateways, Route tables, ACL’s EC2 instances, ELB's, security groups
+•	Implemented tagging standards for proper identification and ownership of EC2 instances and other AWS resources like compute, storage, Cloud Front, cloud watch, Elastic beanstalk, RDS, Red shift, S3, EBS, Route53, SNS, SQS, Cloud Trail, IAM , Autoscaling groups to meet security audit and compliance requirements.
+•	create and manage KMS keys to control the use of encryption across a wide range of AWS services and in applications working with load balancing and  monitoring System/Application Logs of server using Datadog, Splunk, Nginx, Nagios, Kibana, ELK, Log stash to detect Production issues
+•	Developed Cloud Formation Templates in YAML/ JSON format to build the AWS infrastructure with the paradigm of Infrastructure as a Code by using the command line tools like AWS CLI to control various AWS services through SHELL/BASH scripting running using the userdata /metadata. 
+•	Implemented a continuous integration and Continuous Delivery pipeline in enterprise cloud bees Jenkins for packaging  packer machine images through Jenkins, GitHub, Jfrog and using the RESTApi calls with the ansible tower. 
+•	Managed the admin jobs related to Ansible tower like installing/setting up the Development, Disaster Recovery and Production environments for performing the automation across the organization.
+•	Defining, Designing and implementing the security model for role-based access control used in utilization of the Ansible tower platform to the clients across the organization and documented the ITAC.
+•	Implemented Tower Jobs for performing automation with ansible tower resources like inventory, job templates, ansible vault, scheduling jobs etc.
+•	Developed and Implemented python script integrated with vault to create/update the ansible tower resources like inventory, credential, teams, Ldap configuration, generating tokens used during on-boarding/integrating programmatically to the consumers to ansible tower via Browsable Rest API
+•	Developed Ansible Playbooks in performing automation to add the server configuration index to the CMDB and establishing relationship to the apps via remedy, installing the Avamar backup agent on to the servers and adding the customized policy to the backup client and day to day tasks for users as part of self-service jobs
+•	Integrated with different platforms like VMware/AWS with the ansible tower to make use of the inventory(hosts) for the consumption to consumers with grouping mechanism
+•	Developed automation and deployment templates for relational and non-relational databases including postgres, MS-SQL, MySQL, Cassandra and MongoDB for different micro-services
+•	Organized the workshops on Ansible tower in the organization to share the knowledge on consuming the ansible tower platform in performing automation
+•	Automated applications and MySQL container deployment in Docker using Python and monitor them using Nagios.
+•	Utilized Kubernetes and Docker for the runtime environment of the CI/CD system to build, test, deploy
+•	Setup OpenShift platform from scratch in multiple environments as sandbox/UAT/Dev/ Prod on VMware ESXI servers. using ansible tower  in building and rebuilding the environments by automation playbooks. 
+•	Supporting source to image and binary build for maven and gradle using Jenkins pipeline to deploy the microservices in the OpenShift using the docker hub.
+•	Working with Microservices using Docker Containers, Kubernetes, OpenShift, deploying applications in multiple Public and Private clouds like VMWare, Amazon Web Services
+•	Involved in PaaS with RedHat OpenShift Container Platform in Architecting, installing and configuring the platform using different tools and technologies
+
+Environment:   AWS, NoSQL, MS SQL, MySQL, Git, GitHub, Jenkins, ansible, ansible tower, VMware Workstation, Docker (Daemon), Kubernetes, Python, shell script, Cassandra, MongoDB, ELK, Logstash, Kibana, elastic search, Elastic cache, Rest API, Cloud Front, Cloud Watch, Cloud Trail, KMS OpenShift, Terraform, Cloud Formation, Nagios, Red Hat Linux, mpstat, vmstat, Iostat, netstat, nfsstat, Packer, JFrog, VersionOne, Vagrant, Azure.
+
+
+Client: Rrootshell Technologies- Hyderabad, India                   	 Jan 2014 – June 2015                                                                 
+Role: Unix/Linux /Systems Administrator
+Responsibilities:  
+•	Involved in installation, configuration, patching and administration of Linux/UNIX and Windows Servers, Upgrading
+•	Experience in configuring network services such as HTTP, DHCP, and TFTP and Configured in setting up SSH, and Telnet connectivity between multiple hosts
+•	Installed and configured Apache on RHEL, Integrated Apache Web Server to communicate with Web Sphere.
+•	Administered Apache web servers, Mail, DNS, MySQL databases
+•	Manages Patches configuration, version control, service pack and reviews connectivity issues regarding security problem also Implemented NFS, Auto Mount, DNS, and LDAP related issues
+•	Responsible for writing Bash, Shell, Perl, Python scripts to ping servers and adding users to the boxes and proficient in scripting languages to automate daily activities
+•	Integrated with Virtual Environments such as VMware Suites, Oracle Virtual Box, Resolved system errors, crashes, disk space problems, huge file sizes, and file system full errors
+•	Excellent knowledge on DNS, NIS, NFS, FTP, Samba Server, LDAP, remote access, security management, and system troubleshooting skills
+•	Responsible for Project Management in Linux/Unix/Windows system integration projects
+•	Designed and Implemented, Administered, Secured Ubuntu, Centos virtual systems and configured related tasks like installations etc.
+•	Maintained both the servers VM based and standalone and managed updates for Linux and Windows systems
+
+Environment: RHEL, CentOS, Shell Scripting, Python, Bash, Samba, VMware, LDAP, DNS, Samba, FTP, NFS, MYSQL, HTTP, DHCP, SSH, VMware
+
+Education: 
+•	Graduated in Bachelor of Technology in computer science from MLR Institute of Technology in 2015
+•	Graduated in master’s in computer and information sciences from Kent State University in 2016 
+
+
+
+
+
